@@ -6,7 +6,7 @@ ul,ol{
     list-style: none;
 }
 body{
-    background:#bfbfbf url(../image/12.1\ background.jpg.jpg) repeat-x;
+    background:#bfbfbf url(12.1\ background.jpg.jpg) repeat-x;
     font-family: Arial, sans-serif;
 }
 header{
@@ -41,7 +41,7 @@ header h1{
     width: 140px;
     height: 500px;
     cursor: pointer;
-    background: url(../image/tutu.jpg)no-repeat;
+    background: url(tutu.jpg)no-repeat;
     opacity: 1;
 }
 .color{
@@ -50,7 +50,7 @@ header h1{
     width: 140px;
     height: 500px;
     cursor: pointer;
-    background: url(../image/tut.jpg)no-repeat;
+    background: url(tut.jpg)no-repeat;
 }
 #part2 div{
     background-position: -140px 0;
